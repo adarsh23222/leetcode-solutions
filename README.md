@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/adarsh23222/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/adarsh23222/leetcode-solutions/tree/master/0189-rotate-array) |
 ## Prefix Sum
 |  |
@@ -48,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/adarsh23222/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/adarsh23222/leetcode-solutions/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
