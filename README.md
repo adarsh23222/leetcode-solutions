@@ -56,4 +56,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/adarsh23222/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/adarsh23222/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/adarsh23222/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Greedy
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/adarsh23222/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/adarsh23222/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
