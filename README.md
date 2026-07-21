@@ -82,20 +82,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/adarsh23222/leetcode-solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/adarsh23222/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/adarsh23222/leetcode-solutions/tree/master/0968-binary-tree-cameras) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/adarsh23222/leetcode-solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/adarsh23222/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/adarsh23222/leetcode-solutions/tree/master/0968-binary-tree-cameras) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/adarsh23222/leetcode-solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/adarsh23222/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/adarsh23222/leetcode-solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/adarsh23222/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/adarsh23222/leetcode-solutions/tree/master/0968-binary-tree-cameras) |
 <!---LeetCode Topics End-->
