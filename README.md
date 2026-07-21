@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/adarsh23222/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/adarsh23222/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/adarsh23222/leetcode-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Stack
 |  |
 | ------- |
@@ -102,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/adarsh23222/leetcode-solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/adarsh23222/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/adarsh23222/leetcode-solutions/tree/master/0968-binary-tree-cameras) |
+## Enumeration
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/adarsh23222/leetcode-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 <!---LeetCode Topics End-->
